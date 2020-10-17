@@ -1,8 +1,9 @@
-package xyz.glorin.nameplate
+package xyz.glorin.nameplate.widget
 
 import android.content.Context
 import android.view.View
 import android.widget.TextView
+import xyz.glorin.nameplate.R
 
 object NamePlateViewFactory {
     fun createNamePlateView(context: Context, any: Any): View {
