@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="name_plate_activity_margin_start">2dp</dimen>
+    <dimen name="name_plate_activity_margin_top">2dp</dimen>
+    <dimen name="name_plate_activity_padding_start">4dp</dimen>
+    <dimen name="name_plate_activity_padding_end">4dp</dimen>
+</resources>

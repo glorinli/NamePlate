@@ -1,0 +1,3 @@
+include ':NamePlate-lib'
+include ':app'
+rootProject.name = "NamePlate"
